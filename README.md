@@ -1,22 +1,39 @@
-# Thiago Andre Toledo Baylon
-Bueno, soy THIAGO tengo 21 años me gusta todo lo que tiene que ver con el
-el internet me gustaria ser un buen programdor a futuro, me gusta los videojuegos como VALORANT, ver Peliculas, y salir a manejar bici o jugar futbol. 💪
+# Bienvenido a Reading Notes 🌟
 
-![imagen de mi](https://scontent.flim38-1.fna.fbcdn.net/v/t1.6435-9/54278763_2130902567149228_8730125975263641600_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHEQMW8cnooK4kbWHzINICVSaKLq0kQwrFJoourSRDCsQwJikGTL16V2yjFy3nJ3y_9lb7uZQb2WNoZFI3w9R9Q&_nc_ohc=KpmEi5dFauEQ7kNvgFcRDB4&_nc_oc=AdjExfn1FrDz5NaOBN0ZYvgDtZHdGWNlnpd9HbShULyNYlht9BqoGQs30dKScVXpHV4&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=Ayn9aJNZ4eUBdxwkr5O0sQV&oh=00_AYBPC8eCEtv35k9egUHwvhXEt9RpNVC0_kQ2fpzo6DK5dg&oe=67B66614)
+Este repositorio contiene mis notas de lectura y reflexiones sobre los cursos de programación Code 101 y Code 201. Cada sección está organizada en directorios con enlaces directos a las notas.
 
-|Notas de Markdo 📌|Notas de GitHup📌|
-|------------------|------------------|
-|18                |20                | 
-|20                |16                |
-|15                |18                |
+---
 
-Bueno mi vision como programador es poder aprender la gran mayoria de lenjuages tener buenos proyectos y asi en futuro hacer mi propiauna empresa.
+## **Notas de Lectura - Code 101 📖**
 
-CONTACTAME ✨
+- [Sesion 01](./101/sesion01.md)
+- [Sesion 02](./101/sesion02.md)
+- [Sesion 03](./101/sesion03.md)
+- [Sesion 04](./101/sesion04.md)
+- [Sesion 05](./101/sesion05.md)
+- [Sesion 06](./101/sesion06.md)
+- [Sesion 07](./101/sesion07.md)
+- [Sesion 08](./101/sesion08.md)
+- [Sesion 09](./101/sesion09.md)
+- [Sesion 10](./101/sesion10.md)
 
--[Linkedin](https://www.linkedin.com/in/thiago-andre-toledo-baylon-740340347/)
+---
 
--[GitHub](https://github.com/elMonje69)
+## **Notas de Lectura - Code 201 📘**
 
-
-##Primer comentario en githup
+- [Sesion 01](./201/sesion01.md)
+- [Sesion 02](./201/sesion02.md)
+- [Sesion 03](./201/sesion03.md)
+- [Sesion 04](./201/sesion04.md)
+- [Sesion 05](./201/sesion05.md)
+- [Sesion 06](./201/sesion06.md)
+- [Sesion 07](./201/sesion07.md)
+- [Sesion 08](./201/sesion08.md)
+- [Sesion 09](./201/sesion09.md)
+- [Sesion 10](./201/sesion10.md)
+- [Sesion 11](./201/sesion11.md)
+- [Sesion 12](./201/sesion12.md)
+- [Sesion 13](./201/sesion13.md)
+- [Sesion 14](./201/sesion14.md)
+- [Sesion 15](./201/sesion15.md)
+- [Sesion 16](./201/sesion16.md)
